@@ -1,0 +1,10 @@
+{
+  "name": "ezra-mvp",
+  "version": "1.0.0",
+  "description": "Ezra — a confidential AI advisor for independent insurance agency owners.",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.104.0"
+  }
+}
